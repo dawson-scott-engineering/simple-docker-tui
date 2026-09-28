@@ -1,0 +1,15 @@
+# Compiled binaries
+/simple-tui
+*.exe
+*.out
+
+# Environment and secrets
+.env
+.env.*
+
+# Editor files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
